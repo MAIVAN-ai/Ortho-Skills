@@ -1,0 +1,30 @@
+{
+  "name": "Ortho-Skills",
+  "repository": "https://github.com/MAIVAN-ai/Ortho-Skills",
+  "version": "0.1.0",
+  "created": "2026-05-18",
+  "license": "Apache-2.0",
+  "clinical_status": "research_education_workflow_prototyping_only",
+  "skills": [
+    "skills/aftercare/aftercare-rehabilitation-plan/SKILL.md",
+    "skills/classification/ao-ota-fracture-classifier/SKILL.md",
+    "skills/classification/paediatric-fracture-triage/SKILL.md",
+    "skills/classification/periprosthetic-fracture-triage/SKILL.md",
+    "skills/diagnosis/diagnostic-workup-planner/SKILL.md",
+    "skills/diagnosis/orthopaedic-case-intake/SKILL.md",
+    "skills/diagnosis/orthopaedic-xray-quality-check/SKILL.md",
+    "skills/documentation/case-report-writer/SKILL.md",
+    "skills/documentation/structured-case-capsule/SKILL.md",
+    "skills/education/resident-case-discussion/SKILL.md",
+    "skills/education/teaching-slide-outline/SKILL.md",
+    "skills/evidence/ao-surgery-reference-query/SKILL.md",
+    "skills/evidence/literature-evidence-query/SKILL.md",
+    "skills/implant-selection/implant-selection-factors/SKILL.md",
+    "skills/implant-selection/implant-traceability-record/SKILL.md",
+    "skills/outcomes/outcome-measurement-plan/SKILL.md",
+    "skills/outcomes/registry-ready-follow-up/SKILL.md",
+    "skills/treatment/ao-surgery-reference-treatment-planner/SKILL.md",
+    "skills/treatment/fracture-treatment-options/SKILL.md",
+    "skills/treatment/red-flag-escalation/SKILL.md"
+  ]
+}
